@@ -20,6 +20,7 @@ The application will use two CSV files:
 
 1. Create a Flask/FastAPI/Django(any python framework only) application that serves as the backend API.
 2. Implement the following endpoints:
+   
    a. Get all companies (read from companies.csv)
    
    b. Get company details by ID (from companies.csv)
