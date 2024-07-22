@@ -18,12 +18,16 @@ The application will use two CSV files:
 
 ### Backend (Python)
 
-1. Create a Flask/FastAPI/Django(any python framework) application that serves as the backend API.
+1. Create a Flask/FastAPI/Django(any python framework only) application that serves as the backend API.
 2. Implement the following endpoints:
    a. Get all companies (read from companies.csv)
+   
    b. Get company details by ID (from companies.csv)
+   
    c. Get all locations for a specific company ID (from locations.csv)
-3. Implement basic error handling and logging.
+   
+4. Implement basic error handling and logging.
+5. Provide API Documentation
 
 ### Frontend (React)
 
@@ -76,10 +80,11 @@ The application will use two CSV files:
 - Implement unit tests for backend and frontend
 - Add possible data visualizations (e.g., charts) on the Company Details Page
 - Implement an innovative way to compare or analyze multiple locations
+- Swagger UI Doccumentation
 
 ## Time Limit
 
-Candidates will have 4 days to complete this assessment. The deadline for submission is Friday at 11:00 AM. Please ensure that you manage your time effectively to showcase your best work within this timeframe.
+Candidates will have 4 days to complete this assessment. The deadline for submission is Friday at 4:00 PM EST. Please ensure that you manage your time effectively to showcase your best work within this timeframe.
 We understand that you may have other commitments, so please allocate your time wisely across the various components of the assessment. It's okay if not all features are fully implemented; we're interested in seeing your approach, code quality, and how you prioritize tasks given the time constraint.
 
 ## Submission
