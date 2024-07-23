@@ -85,7 +85,7 @@ The application will use two CSV files:
 
 ## Time Limit
 
-Candidates will have 4 days to complete this assessment. The deadline for submission is Friday at 4:00 PM EST. Please ensure that you manage your time effectively to showcase your best work within this timeframe.
+Candidates will have 4 days to complete this assessment. The deadline for submission is Saturday at 4:00 PM EST. Please ensure that you manage your time effectively to showcase your best work within this timeframe.
 We understand that you may have other commitments, so please allocate your time wisely across the various components of the assessment. It's okay if not all features are fully implemented; we're interested in seeing your approach, code quality, and how you prioritize tasks given the time constraint.
 
 ## Submission
