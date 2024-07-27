@@ -206,7 +206,7 @@ export default CompanyDetails;
 //       )}
 //       <h2 className="my-4">Map of Locations</h2>
 //       <LoadScript
-//         googleMapsApiKey="AIzaSyBkp8P0D_DgZd14wlGL390G_hD1vKUc9yU"
+//         googleMapsApiKey="#################"
 //         libraries={libraries}
 //         loadingElement={<div>Loading Maps...</div>}
 //       >
