@@ -110,3 +110,9 @@ The project uses Swagger UI for API documentation. To view the interactive docum
 http://localhost:8000/api/swagger/
 
 For ease of testing, I have also attached the Postman Collection :)
+
+
+Developers Details:
+Somil Shah
+shah.som@northeastern.edu 
+nuid: 002807855
