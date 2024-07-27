@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "9b0904b4-6829-401a-b701-325ab8d56dd2",
+		"name": "Supply Trace",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21074465"
+	},
+	"item": [
+		{
+			"name": "Get all companies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Company Detail",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Company Locations",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
